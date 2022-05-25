@@ -5,6 +5,7 @@ GIven a stocks ticker this will return 8 data frames containing the following da
 Each of the data frames contains the following headers:
 
 Dictionary[DataFrames]:
+
             'Income Statements': ['Revenue USD Mil', 'Gross Margin %', 'Operating Income USD Mil',
                                 'Operating Margin %', 'Net Income USD Mil', 'Earnings Per Share USD',
                                 'Dividends USD', 'Payout Ratio % *', 'Shares Mil',
