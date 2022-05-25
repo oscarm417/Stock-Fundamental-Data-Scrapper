@@ -27,6 +27,7 @@ Dictionary[DataFrames]:
             'Cashflow Growth': ['Operating Cash Flow Growth % YOY', 'Free Cash Flow Growth % YOY',
                                 'Cap Ex as a % of Sales', 'Free Cash Flow/Sales %',
                                 'Free Cash Flow/Net Income']
+                                
             'Balance Sheet': ['Cash & Short-Term Investments', 'Accounts Receivable', 'Inventory',
                             'Other Current Assets', 'Total Current Assets', 'Net PP&E',
                             'Intangibles', 'Other Long-Term Assets', 'Total Assets',
