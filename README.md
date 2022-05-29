@@ -2,6 +2,11 @@
 GIven a stocks ticker this will return 8 data frames containing the following data:
 'Income Statements', 'Income % Statements', 'Return Ratios', 'Revenue Growth', 'Cashflow Growth', 'Balance Sheet', 'Financial Health Ratios'
 
+
+Example:
+data = Financials().download('GOOGL')
+data['Income Statements'] #gets the income statments
+
 Each of the data frames contains the following headers:
 
 Dictionary[DataFrames]:
