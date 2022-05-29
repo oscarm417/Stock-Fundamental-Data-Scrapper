@@ -6,6 +6,9 @@ GIven a stocks ticker this will return 8 data frames containing the following da
 Example:
 data = Financials().download('GOOGL')
 
+![image](https://user-images.githubusercontent.com/65280357/170885367-eb3a4d98-f145-406e-8cdd-bc1a205737dc.png)
+
+
 data['Income Statements'] #gets the income statments
 
 Each of the data frames contains the following headers:
