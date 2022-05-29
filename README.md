@@ -5,6 +5,7 @@ GIven a stocks ticker this will return 8 data frames containing the following da
 
 Example:
 data = Financials().download('GOOGL')
+
 data['Income Statements'] #gets the income statments
 
 Each of the data frames contains the following headers:
